@@ -14,3 +14,6 @@ A empresa que te contratou pediu para você incluir 4 métricas diferentes, com 
 
 #### DIA 4
 "O que você vai fazer hoje é a **seção de "Estamos procurando por talentos"**, mas sem a parte de divulgação de vagas ainda, apenas até a imagem!"
+
+#### DIA 5
+"Dando continuidade, hoje você vai desenvolver a parte talvez mais importante do projeto inteiro, a **seção de vagas**!"

@@ -263,3 +263,50 @@ header {
     width: 1216px;
     height: 400px;
 }
+
+.vagas-abertas{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.vagas-container {
+    width: 100%;
+    height: 100%;
+}
+
+.area-vaga {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.vaga {
+    display: flex;
+    flex-direction: column;
+    width: 768px;
+    height: 100%;
+    padding: 24px 24px 28px;
+    margin: 20px auto;
+    border: 1px solid #EAECF0;
+    border-radius: 16px;
+    gap: 24px;
+}
+
+.titulo-vaga {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #101828;
+}
+
+.informacoes-vaga {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 50%;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--text-color);
+}
