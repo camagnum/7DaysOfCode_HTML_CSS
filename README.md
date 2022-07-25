@@ -17,3 +17,8 @@ A empresa que te contratou pediu para você incluir 4 métricas diferentes, com 
 
 #### DIA 5
 "Dando continuidade, hoje você vai desenvolver a parte talvez mais importante do projeto inteiro, a **seção de vagas**!"
+
+#### DIA 6
+"No desafio de hoje, você vai criar a **seção de Depoimentos**.
+
+Essa seção irá conter um pequeno texto acima, um título, uma imagem de uma colaboradora (você pode exportar essa imagem pelo Figma do projeto), além de seu nome e cargo dentro da empresa."
