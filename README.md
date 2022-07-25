@@ -22,3 +22,6 @@ A empresa que te contratou pediu para você incluir 4 métricas diferentes, com 
 "No desafio de hoje, você vai criar a **seção de Depoimentos**.
 
 Essa seção irá conter um pequeno texto acima, um título, uma imagem de uma colaboradora (você pode exportar essa imagem pelo Figma do projeto), além de seu nome e cargo dentro da empresa."
+
+#### DIA 7
+"Nessa seção você terá que criar **um título, um pequeno texto, um formulário com um campo de entrada para o e-mail e um botão**. Além disso, também há um **texto de copyright logo abaixo**."
